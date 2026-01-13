@@ -13,14 +13,16 @@ This is playground for kzcodes to pratice and learn the following technologies
 - requests
 - sqlalchemy
 - Pandas
-- Apache Spark / pySpark
 - Numpy
-- Kafka
-- Apache Airflow
+- Apache Spark / pySpark
+- Databricks
 - Azure Cloud Platform
+- Apache Airflow
+- dbt
 - Git Workflows / Actions
 
 ADV
 
+- Kafka
 - TerraForm
 - Docker & Kube
