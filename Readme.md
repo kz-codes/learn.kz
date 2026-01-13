@@ -23,6 +23,6 @@ This is playground for kzcodes to pratice and learn the following technologies
 
 ADV
 
-- Kafka
 - TerraForm
 - Docker & Kube
+- Kafka
